@@ -25,6 +25,7 @@ Finally, I wrote a simple Hello World program.
 Below is a screenshot of the code:
 
 ![Screen10](https://github.com/user-attachments/assets/a089a2d7-8c25-466a-9ae0-3e5e9e9218fc)
+![image](https://github.com/user-attachments/assets/77cc8b75-ddc0-4325-843f-498e3d407a4b)
 
 
 ---
